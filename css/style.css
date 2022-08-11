@@ -1,0 +1,25 @@
+body {
+    margin: 0;
+    background-image: url("../wave.svg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.SectionOne {
+    padding-top: 270px;
+}
+
+section {
+    width: 70%;
+    padding-left: 15%;
+}
+
+h1 {
+    padding-top: 120px;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    color: #05889B;
+}
